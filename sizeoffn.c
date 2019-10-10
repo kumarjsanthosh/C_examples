@@ -19,5 +19,5 @@
     printf("Size of char is:  %d byte(s)\n", sizeof(c));
     printf("Size of short is:  %d byte(s)\n", sizeof(s));
     printf("Size of float is:  %d byte(s)\n", sizeof(float));
-    
+    ///its gud to go
 }
